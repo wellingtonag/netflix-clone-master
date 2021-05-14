@@ -1,2 +1,2 @@
 # netflix-clone-master
-Clono da página inicial do Netflix com Transição na cor das imagens do carrossel
+Clone da página inicial do Netflix. Incluí uma Transição na cor das imagens do carrossel, conforme o usuário passa o mouse.
